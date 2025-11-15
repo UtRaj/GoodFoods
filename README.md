@@ -312,6 +312,5 @@ reservation_prompt = reservation_details_extraction_prompt + "\n" + "\n".join(co
 
 ## Video Demonstration
 
-[![GoodFoods Demo](https://user-images.githubusercontent.com/1234567/0000000/GoodFoods.mp4
-)]
+[![Watch the demo](https://via.placeholder.com/640x360.png?text=Watch+Demo)](https://user-images.githubusercontent.com/1234567/0000000/GoodFoods.mp4)
 
