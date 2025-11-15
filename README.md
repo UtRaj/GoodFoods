@@ -278,7 +278,7 @@ conversation_history = [
     "Bot: Sure, for how many people?"
 ]
 reservation_prompt = reservation_details_extraction_prompt + "\n" + "\n".join(conversation_history)
-# Send reservation_prompt to LLM to get structured JSON
+```python
 
 ## Challenges and Known Issues
 
