@@ -278,7 +278,8 @@ conversation_history = [
     "Bot: Sure, for how many people?"
 ]
 reservation_prompt = reservation_details_extraction_prompt + "\n" + "\n".join(conversation_history)
-```python
+
+```
 
 ## Challenges and Known Issues
 
