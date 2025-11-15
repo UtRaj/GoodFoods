@@ -309,5 +309,9 @@ reservation_prompt = reservation_details_extraction_prompt + "\n" + "\n".join(co
 - **Dynamic Dataset Updates:** Allow seamless updates to restaurant data without requiring code changes or redeployment.
 
 
+
 ## Video Demonstration
+
+[![GoodFoods Demo](https://user-images.githubusercontent.com/1234567/0000000/GoodFoods.mp4
+)]
 
