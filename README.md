@@ -42,7 +42,7 @@ The **GoodFoods Restaurant Reservation System** is built with a modular architec
 
 ## Project Structure
 ```
-.
+
 ├── agents/                 # AI Agent Service
 │   ├── Dockerfile
 │   ├── app/
@@ -66,7 +66,7 @@ The **GoodFoods Restaurant Reservation System** is built with a modular architec
 │   ├── Dockerfile
 │   ├── app/
 │   │   ├── auth.py        # Authentication logic
-│   │   ├── activate.py    # Database operations
+│   │   ├── activity.py    # Database operations
 │   │   ├── database.py    # Database configuration
 │   │   ├── init_db.py     # Database initialization
 │   │   ├── main.py        # Backend entry point
@@ -79,7 +79,8 @@ The **GoodFoods Restaurant Reservation System** is built with a modular architec
 │   ├── src/
 │   │   ├── components/    # Reusable components
 │   │   ├── pages/         # Application pages
-│   │   └── context/       # Auth Context 
+│   │   ├── context/       # Auth Context
+|   |   └── types/       # Layout structure of the entities 
 ├── docker-compose.yml      # Docker Compose
 
 ```
